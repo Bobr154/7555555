@@ -9,6 +9,8 @@ gg = tk.Label(
     height=10)
 
 
+
+
 gg.pack()
 
 window.mainloop()
